@@ -1,0 +1,5 @@
+{
+  "directory": "Resources/Private/BowerComponents",
+  "analytics": false,
+  "timeout": 120000
+}
